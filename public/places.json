@@ -1,0 +1,173 @@
+{
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.653810,
+          "lng": 126.768880
+        }
+      },
+      "name": "고양국제꽃박람회",
+      "rating": 4,
+      "types": [
+        "없음"
+      ],
+      "review_count": 10
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.661128,
+          "lng": 126.768601
+        }
+      },
+      "name": "라페스타",
+      "rating": 3.4,
+      "types": [
+        "쇼핑"
+      ],
+      "review_count": 31
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.661420,
+          "lng": 126.774335
+        }
+      },
+      "name": "고양아람누리예술센터",
+      "rating": 4.5,
+      "types": [
+        "랜드마크"
+      ],
+      "review_count": 10
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.646981,
+          "lng": 126.973253
+        }
+      },
+      "name": "북한산성",
+      "rating": 4.5,
+      "types": [
+        "랜드마크"
+      ],
+      "review_count": 10
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.663690,
+          "lng":  126.868771
+        }
+      },
+      "name": "서삼릉",
+      "rating": 4.4,
+      "types": [
+        "랜드마크"
+      ],
+      "review_count": 21
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.625797,
+          "lng":  126.898130
+        }
+      },
+      "name": "서오릉",
+      "rating": 4.5,
+      "types": [
+        "랜드마크"
+      ],
+      "review_count": 31
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.646785,
+          "lng":  126.894820
+        }
+      },
+      "name": "스타필드고양",
+      "rating": 3.5,
+      "types": [
+        "쇼핑"
+      ],
+      "review_count": 10
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.664409,
+          "lng":  126.873392
+        }
+      },
+      "name": "원당종마목장",
+      "rating": 5,
+      "types": [
+        "랜드마크"
+      ],
+      "review_count": 31
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.664353,
+          "lng":  126.754368
+        }
+      },
+      "name": "원마운트워터파크",
+      "rating": 2.3,
+      "types": [
+        "워터파크 & 놀이공원"
+      ],
+      "review_count": 42
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.656746,
+          "lng":  126.766248
+        }
+      },
+      "name": "일산호수공원",
+      "rating": 4.9,
+      "types": [
+        "자연 / 공원"
+      ],
+      "review_count": 143
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.663363,
+          "lng":  126.755307
+        }
+      },
+      "name": "한화아쿠아플라넷일산",
+      "rating": 3.3,
+      "types": [
+        "자연 / 공원"
+      ],
+      "review_count": 21
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.599884,
+          "lng":  126.824776
+        }
+      },
+      "name": "행주산성",
+      "rating": 4.7,
+      "types": [
+        "랜드마크"
+      ],
+      "review_count": 43
+    }
+  ],
+  "status": "OK"
+}
